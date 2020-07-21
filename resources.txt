@@ -1,0 +1,13 @@
+
+Requirements:
+    - Node.js
+    - npm
+
+Commands:
+    - git commit --amend --no-edit // Add changes to commit
+    - git merge --squash // Combine every commit on a branch into a merge commit
+    - git branch -vv // List local branches and remote tracking
+
+Links:
+    - React API: https://es.reactjs.org/docs/react-api.html
+    - AWS CDK setup: https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html
