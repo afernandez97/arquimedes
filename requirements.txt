@@ -1,0 +1,7 @@
+
+Requirements:
+    - Node.js
+    - npm
+
+Commands:
+    - git commit --amend --no-edit
