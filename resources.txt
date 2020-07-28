@@ -8,6 +8,18 @@ Commands:
     - git merge --squash // Combine every commit on a branch into a merge commit
     - git branch -vv // List local branches and remote tracking
 
+Environment setup:
+    - VS Code Plugins: ESLint, Chrome debugger
+    - React: npx create-react-app arquimedes
+    - Storybook: npx -p @storybook/cli sb init
+
 Links:
     - React API: https://es.reactjs.org/docs/react-api.html
     - AWS CDK setup: https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html
+
+Commands:
+    - npm install
+    - npm start
+    - npm run storybook
+    - npm run build
+    - npm run analyze
